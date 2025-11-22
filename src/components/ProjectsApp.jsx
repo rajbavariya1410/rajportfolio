@@ -10,15 +10,15 @@ export default function ProjectsApp() {
             desc: "Modern online store with product filtering, cart, and payment system.",
             img: "https://deep-image.ai/blog/content/images/2022/12/Walmart-eCommerce-Analytics.jpeg",
             tech: ["HTML", "CSS", "JavaScript"],
-            github: "https://github.com/rajbavariya1410/walmart.git",
-            live: "https://media.istockphoto.com/id/1449580178/vector/under-construction-sign-vector-for-banner-website-ig.jpg?s=612x612&w=0&k=20&c=Eqa3KodRrtCGvMAd0Iay7K5bsNIH37zBbnLCLDPPARQ=",
+            github: "https://github.com/rajbavariya1410/walmartapp.git",
+            live: "https://rajbavariya1410.github.io/walmartapp/",
         },
         {
             title: "Portfolio Website",
             desc: "Personal portfolio to showcase my design and coding projects.",
             img: "https://repository-images.githubusercontent.com/799975430/49aaeb67-e194-422b-a334-57dbb8bf83fd",
             tech: ["HTML", "CSS", "Tailwind"],
-            github: "https://media.istockphoto.com/id/1449580178/vector/under-construction-sign-vector-for-banner-website-ig.jpg?s=612x612&w=0&k=20&c=Eqa3KodRrtCGvMAd0Iay7K5bsNIH37zBbnLCLDPPARQ=",
+            github: "https://github.com/rajbavariya1410/rajportfolio.git",
             live: "#",
         },
         {
@@ -42,8 +42,8 @@ export default function ProjectsApp() {
             desc: "A modern and responsive website built to deliver a smooth user experience with clean design and interactive features.",
             img: "https://img.freepik.com/free-photo/shop-clothing-clothes-shop-hanger-modern-shop-boutique_1150-8886.jpg",
             tech: ["HTML", "Tailwind", "API", "JavaScript"],
-            github: "https://media.istockphoto.com/id/1449580178/vector/under-construction-sign-vector-for-banner-website-ig.jpg?s=612x612&w=0&k=20&c=Eqa3KodRrtCGvMAd0Iay7K5bsNIH37zBbnLCLDPPARQ=",
-            live: "https://media.istockphoto.com/id/1449580178/vector/under-construction-sign-vector-for-banner-website-ig.jpg?s=612x612&w=0&k=20&c=Eqa3KodRrtCGvMAd0Iay7K5bsNIH37zBbnLCLDPPARQ=",
+            github: "https://github.com/rajbavariya1410/cultureclothing.git",
+            live: "https://rajbavariya1410.github.io/cultureclothing/",
         },
         {
             title: "Crud Demo App",
@@ -52,6 +52,14 @@ export default function ProjectsApp() {
             tech: ["HTML", "Tailwind", "API"],
             github: "https://github.com/rajbavariya1410/crudapp.git",
             live: "https://rajbavariya1410.github.io/crudapp/",
+        },
+        {
+            title: "News App",
+            desc: "A dynamic news web app that fetches real-time headlines using an external API to deliver the latest updates instantly.",
+            img: "https://reactjsexample.com/content/images/2021/11/Snipaste_2021-11-28_13-55-49.jpg",
+            tech: ["HTML", "Tailwind", "API"],
+            github: "https://github.com/rajbavariya1410/newsapp.git",
+            live: "https://rajbavariya1410.github.io/newsapp/",
         },
     ];
 
@@ -151,3 +159,4 @@ export default function ProjectsApp() {
 
     )
 }
+
