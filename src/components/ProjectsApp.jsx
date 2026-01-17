@@ -61,6 +61,14 @@ export default function ProjectsApp() {
             github: "https://github.com/rajbavariya1410/newsapp.git",
             live: "https://rajbavariya1410.github.io/newsapp/",
         },
+        {
+            title: "Hotel Booking App",
+            desc: "A modern hotel room booking web app that allows users to search, select, and reserve rooms in real time with an intuitive and user-friendly interface.",
+            img: "https://netwebtechnologies.com/wp-content/uploads/2024/02/hotel-room-booking-apps.webp",
+            tech: ["HTML", "Tailwind", "Components"],
+            github: "https://github.com/rajbavariya1410/hotel-room-booking.git",
+            live: "https://hotel-room-booking-self.vercel.app/",
+        },
     ];
 
     return (
@@ -128,3 +136,4 @@ export default function ProjectsApp() {
 
     )
 }
+
